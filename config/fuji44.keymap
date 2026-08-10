@@ -45,10 +45,10 @@
 
         def {
             bindings = <
-&lt 3 ESCAPE  &kp Q  &kp W             &kp E             &kp R           &kp T             &kp Y        &kp U      &kp I          &kp O              &kp P     &kp MINUS
-&kp TAB       &kp A  &kp S             &kp D             &kp F           &kp G             &kp H        &kp J      &kp K          &kp L              &kp SEMI  &kp SQT
-&lbrc_rbrc    &kp Z  &kp X             &kp C             &kp V           &kp B             &kp N        &kp M      &kp COMMA      &kp DOT            &kp FSLH  &lbrckt_rbrckt
-                     &kp LEFT_BRACKET  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &lt 1 LEFT_GUI    &lt 2 SPACE  &kp ENTER  &kp BACKSPACE  &kp RIGHT_BRACKET
+&lt 3 ESCAPE  &kp Q  &kp W       &kp E             &kp R           &kp T             &kp Y        &kp U      &kp I          &kp O     &kp P     &kp MINUS
+&kp TAB       &kp A  &kp S       &kp D             &kp F           &kp G             &kp H        &kp J      &kp K          &kp L     &kp SEMI  &kp SQT
+&lbrc_rbrc    &kp Z  &kp X       &kp C             &kp V           &kp B             &kp N        &kp M      &kp COMMA      &kp DOT   &kp FSLH  &lbrckt_rbrckt
+                     &lpar_rpar  &kp LEFT_CONTROL  &kp LEFT_SHIFT  &lt 1 LEFT_GUI    &lt 2 SPACE  &kp ENTER  &kp BACKSPACE  &kp LALT
             >;
         };
 
